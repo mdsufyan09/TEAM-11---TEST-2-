@@ -1,0 +1,8 @@
+1. Python Version:
+Python 3.x (3.7 or later is recommended)
+2. Required Libraries:
+You will need the following Python libraries installed:
+
+Pandas: For loading and handling data.
+Scikit-learn (sklearn): For machine learning algorithms and preprocessing.
+NumPy: Required by Scikit-learn for array handling (automatically installed with Scikit-learn).
